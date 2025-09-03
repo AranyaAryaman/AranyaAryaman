@@ -106,6 +106,7 @@
 ---
 
 ## 🏆 Awards & Extracurriculars
+- Teaching Assistant - Operating Systems Course (Aug 2025)
 - Teaching Assistant – Graduate Algorithms Course (Aug 2025)  
 - $5K credits – AWS Activate Startup Program (Jul 2025)  
 - Top 2% founder profiles in YCombinator (Nov 2024)  

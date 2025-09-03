@@ -25,19 +25,52 @@
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
 ### **Databases**
-Postgres, Oracle, MongoDB, Supabase, Firebase Realtime DB, Redis, DynamoDB
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
+
 
 ### **Cloud & DevOps**
-AWS (EC2, S3, Lambda, EKS, CloudWatch, Amplify, Lex, Bedrock, RDS, SQS), Kafka, Kubernetes, Docker, Nginx, CI/CD Pipelines, Distributed Systems
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+
 
 ### **Frameworks & Libraries**
-FastAPI, Flask, React.js, Next.js, Node.js, Scikit-learn, Pandas, NumPy, OpenCV, HuggingFace Transformers, Socket.IO, Spring, Rekognition
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-F9AA33?style=flat-square&logo=huggingface&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![AWS Rekognition](https://img.shields.io/badge/-AWS%20Rekognition-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+
 
 ### **ML & AI**
-Semantic Search, LangChain, Retrieval-Augmented Generation (RAG), LLM inference, Sentence-BERT (S-BERT), Elasticsearch, Vector Search, AI Chatbots
+![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat-square)
+![RAG](https://img.shields.io/badge/-RAG-0A0A0A?style=flat-square)
+![S-BERT](https://img.shields.io/badge/-Sentence-BERT-FF6F61?style=flat-square)
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+
 
 ### **Software Development**
-System Design, REST API, Data Structures, Web Sockets, Microservices, Search Engines, High-Availability Systems, Full Stack
+![REST API](https://img.shields.io/badge/-REST_API-4A90E2?style=flat-square)
+![Microservices](https://img.shields.io/badge/-Microservices-FE7F00?style=flat-square)
+![Web Sockets](https://img.shields.io/badge/-Web_Sockets-008080?style=flat-square)
+![Full Stack](https://img.shields.io/badge/-Full_Stack-6A1B9A?style=flat-square)
+![System Design](https://img.shields.io/badge/-System_Design-FF5722?style=flat-square)
 
 ---
 
@@ -97,7 +130,4 @@ System Design, REST API, Data Structures, Web Sockets, Microservices, Search Eng
 
 <!-- Top Languages -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AranyaAryaman&layout=compact&theme=tokyonight)
-
-<!-- Streak -->
-![GitHub Streak](https://github-readme-stats.vercel.app/api?username=AranyaAryaman&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_title=false)
 

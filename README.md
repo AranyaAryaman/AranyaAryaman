@@ -87,9 +87,17 @@ System Design, REST API, Data Structures, Web Sockets, Microservices, Search Eng
 ## 📫 Connect with Me
 - Email: aranya.a@nyu.edu  
 - LinkedIn: [linkedin.com/in/aranya289](https://linkedin.com/in/aranya289)  
-- Portfolio: [aranya.a.nyu.edu](https://aranya.a.nyu.edu)  
+- Portfolio: [aranya.a.nyu.edu](https://aranya-aryaman-portfolio.onrender.com/contact)  
 - GitHub: [github.com/AranyaAryaman](https://github.com/AranyaAryaman)
 
 ---
 
-![Aranya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AranyaAryaman&show_icons=true&theme=radical)
+<!-- Overall GitHub stats -->
+![Aranya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AranyaAryaman&show_icons=true&theme=tokyonight)
+
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AranyaAryaman&layout=compact&theme=tokyonight)
+
+<!-- Streak -->
+![GitHub Streak](https://github-readme-stats.vercel.app/api?username=AranyaAryaman&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_title=false)
+

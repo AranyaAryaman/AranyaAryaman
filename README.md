@@ -1,11 +1,12 @@
 # Hi, I'm Aranya Aryaman 👋
 
-[Portfolio](https://aranya.a.nyu.edu) • [LinkedIn](https://linkedin.com/in/aranya289) • [GitHub](https://github.com/AranyaAryaman) • Email: aranya.a@nyu.edu  
+[Portfolio](https://aranya-aryaman-portfolio.onrender.com) • [LinkedIn](https://linkedin.com/in/aranya289) • [GitHub](https://github.com/AranyaAryaman) • Email: aranya.a@nyu.edu  
 
 ---
 
 ## 🌱 About Me
-- MS in Computer Science at **NYU**, GPA: 4.0  
+- MS in Computer Science at **NYU**, GPA: 4.0
+- B.Tech in Computer Science at **IIT**
 - Passionate about **Systems, Cloud, AI, and Full-Stack Development**  
 - Experienced in **AI chatbots, distributed systems, semantic search, and OS-level programming**  
 
@@ -63,11 +64,11 @@ System Design, REST API, Data Structures, Web Sockets, Microservices, Search Eng
 
 | Project | Description | GitHub |
 |---------|-------------|--------|
-| **Source Code Vulnerability Detector** | Microservice to scan GitHub repos using Bandit + LLaMA 3.2B, CVE-tagged reports, LLM fix suggestions | [Repo](#) |
-| **strace for xv6** | Linux-like strace in xv6, traces 22+ syscalls, command-specific filtering, nested process logging | [Repo](#) |
-| **AWS Dining Recommender** | AI chatbot recommending restaurants using AWS Lex, Lambda, SQS, SES, OpenSearch | [Repo](#) |
-| **Smart Photo Album** | Cloud-based photo album with natural language search using AWS Lex, Rekognition, Elasticsearch | [Repo](#) |
-| **WebChat App** | Real-time web chat app with authentication, MongoDB, WebSockets, NextJS frontend | [Try it](#) |
+| **Source Code Vulnerability Detector** | Microservice to scan GitHub repos using Bandit + LLaMA 3.2B, CVE-tagged reports, LLM fix suggestions | [Repo](https://github.com/CS-GY-9223-Cloud-Vuln-Detector/reportGeneration) |
+| **strace for xv6** | Linux-like strace in xv6, traces 22+ syscalls, command-specific filtering, nested process logging | [Repo](https://github.com/AranyaAryaman/strace-xv6) |
+| **AWS Dining Recommender** | AI chatbot recommending restaurants using AWS Lex, Lambda, SQS, SES, OpenSearch | [Repo](https://github.com/AranyaAryaman/AWS-Dining-Recommender) |
+| **Smart Photo Album** | Cloud-based photo album with natural language search using AWS Lex, Rekognition, Elasticsearch | [Repo](https://github.com/AranyaAryaman/smart-photo-finder) |
+| **WebChat App** | Real-time web chat app with authentication, MongoDB, WebSockets, NextJS frontend | [Try it](https://webchat-j21z.onrender.com/) |
 
 ---
 

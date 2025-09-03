@@ -126,8 +126,8 @@
 ---
 
 <!-- Overall GitHub stats -->
-![Aranya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AranyaAryaman&show_icons=true&theme=tokyonight)
+![Aranya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AranyaAryaman&show_icons=true&theme=tokyonight&count_private=true)
 
 <!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AranyaAryaman&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AranyaAryaman&layout=compact&theme=tokyonight&count_private=true)
 

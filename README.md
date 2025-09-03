@@ -74,25 +74,6 @@
 
 ---
 
-## 💼 Work Experience
-
-### **Founding Engineer / CTO** – Hush (NYC, USA) | Jan 2025 – Aug 2025
-- Led a cross-functional team of 4 engineers and designers; designed scalable and production-ready systems  
-- Built **AI-powered chatbot** and **semantic search engine** improving candidate-job match by 68%  
-- Implemented backend services with FastAPI + PostgreSQL (Supabase)  
-- Deployed end-to-end on AWS with EC2, Amplify, Nginx; supported up to 10k concurrent requests  
-
-### **Software Engineer** – Oracle (Hyderabad, India) | Jul 2021 – Aug 2024
-- Designed Java & PL/SQL REST APIs for bulk updates and purchase order summaries  
-- Improved system performance: response time reduced up to 7x and page load times by 80%  
-- Optimized distributed SpringBoot service for forecasting win probability  
-
-### **Software Engineering Intern** – Qualcomm (Hyderabad, India) | May 2020 – Aug 2020
-- Developed C programs for parallel data transmission over 2.4/5 GHz bands  
-- Built Python CLI tool to speed up code merges, reducing processing time by 30%  
-
----
-
 ## 📂 Projects
 
 | Project | Description | GitHub |

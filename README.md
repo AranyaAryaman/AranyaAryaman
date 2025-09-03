@@ -102,7 +102,7 @@
 ## 📫 Connect with Me
 - Email: aranya.a@nyu.edu  
 - LinkedIn: [linkedin.com/in/aranya289](https://linkedin.com/in/aranya289)  
-- Portfolio: [aranya.a.nyu.edu](https://aranya-aryaman-portfolio.onrender.com/contact)  
+- Portfolio: [aranya.a.nyu.edu](https://aranya-aryaman-portfolio.onrender.com/)  
 - GitHub: [github.com/AranyaAryaman](https://github.com/AranyaAryaman)
 
 ---

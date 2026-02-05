@@ -99,17 +99,6 @@
 
 ---
 
-<!-- Overall GitHub Stats -->
-![Aranya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AranyaAryaman&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)
-
-<!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AranyaAryaman&layout=compact&theme=tokyonight)
-
-<!-- Overall GitHub Rank (A+, A, etc) -->
-![GitHub Rank](https://github-readme-stats.vercel.app/api?username=AranyaAryaman&show_icons=false&hide_title=true&rank_icon=github&theme=tokyonight)
-
----
-
 ## 📫 Connect with Me
 - Email: aranya.a@nyu.edu  
 - LinkedIn: [linkedin.com/in/aranya289](https://linkedin.com/in/aranya289)  

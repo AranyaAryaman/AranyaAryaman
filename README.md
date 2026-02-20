@@ -4,14 +4,6 @@
 
 ---
 
-## 🌱 About Me
-- MS in Computer Science at **NYU**, GPA: 4.0
-- B.Tech in Computer Science at **IIT** Guwahati
-- Passionate about **Systems, Cloud, AI, and Full-Stack Development**  
-- Experienced in **AI chatbots, distributed systems, semantic search, and OS-level programming**  
-
----
-
 ## 💻 Technical Skills
 
 ### **Languages**
